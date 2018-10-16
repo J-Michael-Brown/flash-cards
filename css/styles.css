@@ -2,20 +2,29 @@
   display: none;
 }
 
+body {
+  background-color: #f9c618;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
 h2 {
   cursor: pointer;
-  color: #8811ff;
+  color: #6a4b2b;
 }
 
 h2:hover {
   text-decoration: underline;
 }
 
-.panel {
-  background-color: orange;
-}
 
 .panel-heading {
-  background-color: red;
+  background-color: #d65219;
 
+}
+
+.panel {
+  background-color: #f6f0e7;
 }
