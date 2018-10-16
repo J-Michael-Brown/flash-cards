@@ -1,0 +1,12 @@
+.information {
+  display: none;
+}
+
+h2 {
+  cursor: pointer;
+  color: #8811ff;
+}
+
+h2:hover {
+  text-decoration: underline;
+}
