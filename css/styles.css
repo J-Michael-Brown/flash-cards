@@ -20,11 +20,21 @@ h2:hover {
 }
 
 
+.panel {
+  background-color: #f6f0e7;
+
+  }
+
 .panel-heading {
   background-color: #d65219;
 
 }
 
-.panel {
-  background-color: #f6f0e7;
+.panel-footing {
+  float: right;
+  color: #e18233;
+}
+
+.panel-footing p {
+  float: inherit;
 }
