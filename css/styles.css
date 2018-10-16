@@ -10,3 +10,12 @@ h2 {
 h2:hover {
   text-decoration: underline;
 }
+
+.panel {
+  background-color: orange;
+}
+
+.panel-heading {
+  background-color: red;
+
+}
